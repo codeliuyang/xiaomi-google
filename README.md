@@ -1,4 +1,4 @@
-# xiaomi-google 如何在小米手机安装Google Play
+#如何在小米手机安装Google Play商店
 
 ### 小米手机型号
 小米8
